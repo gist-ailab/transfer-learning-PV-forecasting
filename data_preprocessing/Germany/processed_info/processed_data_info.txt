@@ -1,0 +1,93 @@
+파일별 row 수 및 열별 결측치, 최소, 최대값:
+
+11.100999999998749_DE_KN_industrial3_pv_roof.csv: 26256개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-15 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=11.100999999998749
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-9.7, 최대값=33.8
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+14.599999999998545_DE_KN_industrial2_pv.csv: 24720개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-24 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=14.599999999998545
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1009.14
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=33.8
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+3.845999999999549_DE_KN_residential3_pv.csv: 32544개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2016-02-29 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=3.845999999999549
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=17.8, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=35.9
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+4.170000000000073_DE_KN_industrial1_pv_2.csv: 28872개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-24 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=4.170000000000073
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=34.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+4.75_DE_KN_industrial1_pv_1.csv: 28800개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-24 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=4.75
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=34.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+6.055000000000291_DE_KN_industrial3_pv_facade.csv: 25896개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-16 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=6.055000000000291
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=20.0, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-9.7, 최대값=31.8
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+7.64600000000064_DE_KN_residential6_pv.csv: 31704개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-25 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=7.64600000000064
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=18.9, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-9.7, 최대값=33.8
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+8.197000000000116_DE_KN_residential1_pv.csv: 28632개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-05-22 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=8.197000000000116
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1009.14
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=35.1
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+8.784999999999854_DE_KN_residential4_pv.csv: 31056개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2015-10-11 00:00:00, 최대값=2023-12-29 23:00:00
+ - Active_Power: 결측치=0개, 최소값=0.0, 최대값=8.784999999999854
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1028.6
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=19.3, 최대값=100.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-7.8, 최대값=34.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=12.4
+ - Normalized_Active_Power: 결측치=0개, 최소값=0.0, 최대값=1.0
+
+총 데이터 수: 258480개

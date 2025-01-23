@@ -1,0 +1,129 @@
+파일별 row 수 및 열별 결측치, 최소, 최대값:
+
+C07_Samsung-Env-Bldg.csv: 43560개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2019-02-21 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=808개, 최소값=-0.1, 최대값=66.0
+ - Global_Horizontal_Radiation: 결측치=935개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+C09_Dasan.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=3316개, 최소값=-0.7, 최대값=37.4
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+C10_Renewable-E-Bldg.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=2488개, 최소값=-47.3, 최대값=69.6
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+C11_GAIA.csv: 43560개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2019-02-21 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=808개, 최소값=-72.8, 최대값=122.5
+ - Global_Horizontal_Radiation: 결측치=935개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+E03_GTI.csv: 32016개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2020-07-09 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=485개, 최소값=-83.7, 최대값=133.1
+ - Global_Horizontal_Radiation: 결측치=21개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+E11_DormA.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=3316개, 최소값=-0.3, 최대값=27.7
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+E12_DormB.csv: 32016개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2020-07-09 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=421개, 최소값=-43.9, 최대값=52.1
+ - Global_Horizontal_Radiation: 결측치=21개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+E8_Natural-Science-Bldg.csv: 10848개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2023-02-23 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=15개, 최소값=-0.9, 최대값=220.1
+ - Global_Horizontal_Radiation: 결측치=0개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-10.3, 최대값=35.1
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=15.0, 최대값=99.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=5.3
+
+N01_Central-Library.csv: 43560개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2019-02-21 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=808개, 최소값=-24.0, 최대값=33.0
+ - Global_Horizontal_Radiation: 결측치=935개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+N02_LG-Library.csv: 43560개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2019-02-21 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=808개, 최소값=-33.5, 최대값=45.8
+ - Global_Horizontal_Radiation: 결측치=935개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+Soccer-Field.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=909개, 최소값=-2.9, 최대값=164.1
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+W06_Student-Union.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=994개, 최소값=-0.5, 최대값=48.2
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+W11_Facility-Maintenance-Bldg.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=928개, 최소값=-105.8, 최대값=127.9
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+W13_Centeral-Storage.csv: 46440개
+열별 결측치, 최소, 최대값:
+ - timestamp: 결측치=0개, 최소값=2018-10-24 00:00:00, 최대값=2024-09-25 23:00:00
+ - Active_Power: 결측치=932개, 최소값=-29.4, 최대값=33.7
+ - Global_Horizontal_Radiation: 결측치=939개, 최소값=0.0, 최대값=1300.0
+ - Weather_Temperature_Celsius: 결측치=0개, 최소값=-17.6, 최대값=35.5
+ - Weather_Relative_Humidity: 결측치=0개, 최소값=11.0, 최대값=100.0
+ - Wind_Speed: 결측치=0개, 최소값=0.0, 최대값=7.1
+
+총 데이터 수: 574200개

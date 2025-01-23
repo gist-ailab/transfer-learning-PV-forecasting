@@ -1,0 +1,14 @@
+matplotlib
+numpy
+opencv-python
+openpyxl
+pandas
+pillow
+scikit-learn
+tqdm
+xlrd
+xmltodict
+seaborn
+selenium
+webdriver-manager
+plotly==5.24.1
