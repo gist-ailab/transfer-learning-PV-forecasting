@@ -1,4 +1,6 @@
-# PV Power Forecasting
+# Transfer Learning for PV Power Forecasting Across Regions Using Large-Scale Datasets
+
+Seongho Bak, Sowon Choi, Dpnguk Yang, Doyoon Kim, Heeseon Rho, Kyoobin Lee
 
 ## Key Concepts
 
@@ -7,12 +9,12 @@
 :star2: **Validated on the Various Sites**: The trained model is validated on 4 different countries (England, Germany, Korea, and USA) and each countries has multiple sites. 
 
 ![Algorithm Overview](pic/fig1.png)
-
-*Overview of our transfer learning approach for PV power forecasting*
+The data pipeline and transfer learning process start with gathering and refining the large-scale source data for training. The large size of the source data is gathered and then refined for training a model. The transformer-based model is trained with a large-scale source dataset to create the pre-trained model. With the pre-trained model, each local power generator can predict their local site.
 
 ## Results
 
-(add contents after conducting experiments...)
+![Result Table](pic/Table5.png)
+To compare the performance of each target dataset, we compare target- only (TO), which is trained using only the target dataset, and source-to-target (S2T), which is transferred based on the pre-trained model trained on the source dataset. The results demonstrate that transfer learning improves MAPE across all datasets, with additional improvements observed in other performance metrics
 
 ## Getting Started
 
@@ -53,11 +55,25 @@ Though you can follow the instructions from the original PatchTST repo, we provi
 
 ## Acknowledgement
 
-We appreciate the following github repo very much for the valuable code base and datasets:
+We appreciate the following github repo and sites very much for the valuable code base and datasets:
 
-https://github.com/yuqinie98/PatchTST
+PatchTST: https://github.com/yuqinie98/PatchTST
 
-https://dkasolarcentre.com.au/
+DKASC: https://dkasolarcentre.com.au/
+
+Household Data: https://data.open-power-system-data.org/household_data/
+
+PVDAQ: https://data.openei.org/submissions/4568 (2023 DOE Solar Data Prize)
+- [2017_OEDI](https://data.openei.org/s3_viewer?bucket=oedi-data-lake&prefix=pvdaq%2F2023-solar-data-prize%2F2107_OEDI%2F) for Arbuckle, California
+- [9069_OEDI](https://data.openei.org/s3_viewer?bucket=oedi-data-lake&prefix=pvdaq%2F2023-solar-data-prize%2F9069_OEDI%2F) for Social Circle, Georgia
+
+Photovoltaic (PV) Solar Panel Energy Generation data: https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data?q=solar%20pane
+
+
+
+
+
+
 
 ## Contact
 
