@@ -6,7 +6,9 @@
 
 :star2: **Validated on the Various Sites**: The trained model is validated on 4 different countries (England, Germany, Korea, and USA) and each countries has multiple sites. 
 
-(need to add figures later)
+![Algorithm Overview](pic/fig1.png)
+
+*Overview of our transfer learning approach for PV power forecasting*
 
 ## Results
 
