@@ -31,11 +31,11 @@ Though you can follow the instructions from the original PatchTST repo, we provi
    The directory structure should be as follows:
    ```
     ./data
-    ├── DKASC_AliceSprings
+    ├── DKASC
     │   ├── CSV file 01
     │   ├── CSV file 02
     │   └── ...
-    ├── GIST_dataset
+    ├── GIST
     │   ├── CSV file 01
     │   ├── CSV file 02
     │   └── ...
