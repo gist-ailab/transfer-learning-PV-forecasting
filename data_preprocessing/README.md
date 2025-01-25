@@ -2,14 +2,6 @@
 
 ## Datasets
 
-### DKASC_AliceSprings
-
-(add contents soon...)
-
-### GIST_dataset
-
-(add contents soon...)
-
 In this project, we process datasets from various sites to unify formats and remove anomalies for further analysis. The preprocessing involves two main steps:
 
 1. `1_unify_format.py`
