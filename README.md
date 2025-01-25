@@ -53,7 +53,7 @@ Though you can follow the instructions from the original PatchTST repo, we provi
    ``` 
 
 
-## Acknowledgement
+## Acknowledgement and Data Sources
 
 We appreciate the following github repo and sites very much for the valuable code base and datasets:
 
@@ -69,10 +69,9 @@ PVDAQ: https://data.openei.org/submissions/4568 (2023 DOE Solar Data Prize)
 
 Photovoltaic (PV) Solar Panel Energy Generation data: https://data.london.gov.uk/dataset/photovoltaic--pv--solar-panel-energy-generation-data?q=solar%20pane
 
+Datasets including GIST, Miryang, and preprocessed data are available at the following link ([Data](https://drive.google.com/drive/folders/11tDNAJxlSs12xFQWMFn5pWSBG_TGdhhn?usp=sharing)).
 
-
-
-
+Trained model can be downloaded from the following link ([weight files](https://drive.google.com/drive/folders/1qm9_RJUNnWjZ48sIs_12cyXwsa4UPcHX?usp=sharing)).
 
 
 ## Contact
