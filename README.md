@@ -8,7 +8,7 @@ Seongho Bak, Sowon Choi, Donguk Yang, Doyoon Kim, Heeseon Rho, and Kyoobin Lee
 
 :star2: **Validated on the Various Sites**: The trained model is validated on 4 different countries (England, Germany, Korea, and USA) and each countries has multiple sites. 
 
-![Algorithm Overview](pic/fig1.png)
+![Algorithm Overview](pic/figure1.png)
 The data pipeline and transfer learning process start with gathering and refining the large-scale source data for training. The large size of the source data is gathered and then refined for training a model. The transformer-based model is trained with a large-scale source dataset to create the pre-trained model. With the pre-trained model, each local power generator can predict their local site.
 
 ## Results
