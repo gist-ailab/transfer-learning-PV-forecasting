@@ -1,4 +1,4 @@
-# Transfer Learning for PV Power Forecasting Across Regions Using Large-Scale Datasets
+# Transfer Learning for Photovoltaic Power Forecasting Across Regions Using Large-Scale Datasets
 
 Seongho Bak, Sowon Choi, Donguk Yang, Doyoon Kim, Heeseon Rho, and Kyoobin Lee
 
