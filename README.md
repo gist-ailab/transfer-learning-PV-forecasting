@@ -13,7 +13,7 @@ The data pipeline and transfer learning process start with gathering and refinin
 
 ## Results
 
-![Result Table](pic/Table5.png)
+![Result Table](pic/Table7.png)
 To compare the performance of each target dataset, we compare target- only (TO), which is trained using only the target dataset, and source-to-target (S2T), which is transferred based on the pre-trained model trained on the source dataset. The results demonstrate that transfer learning improves MAPE across all datasets, with additional improvements observed in other performance metrics
 
 ## Getting Started
