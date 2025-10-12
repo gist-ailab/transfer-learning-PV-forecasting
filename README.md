@@ -83,7 +83,11 @@ If you have any questions or concerns, please contact us: bakseongho@gm.gist.ac.
 If you find this repo useful in your research, please consider citing our paper as follows:
 
 ```
-@inproceedings{
-adding soon
+@article{bak2025transfer,
+  title={Transfer Learning for Photovoltaic Power Forecasting Across Regions Using Large-Scale Datasets},
+  author={Bak, Seongho and Choi, Sowon and Yang, Donguk and Kim, Doyoon and Rho, Heeseon and Lee, Kyoobin},
+  journal={IEEE access},
+  year={2025},
+  publisher={IEEE}
 }
 ```
