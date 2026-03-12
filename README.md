@@ -76,7 +76,7 @@ Trained model can be downloaded from the following link ([weight files](https://
 
 ## Contact
 
-If you have any questions or concerns, please contact us: bakseongho@gm.gist.ac.kr or submit an issue
+If you have any questions or concerns, please submit an issue
 
 ## Citation
 
